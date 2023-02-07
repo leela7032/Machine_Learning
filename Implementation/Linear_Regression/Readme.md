@@ -4,3 +4,6 @@ Now based on the data we are going to create a model using **Linear Regression**
 
 
 ![Screenshot (27)](https://user-images.githubusercontent.com/104156901/217220806-a98e1f6d-0b49-480c-8e85-9e51c5adbf5b.png)
+
+
+Here while we are implementing the model we got an accuracy of approx 0.975  . Which is a good model.
