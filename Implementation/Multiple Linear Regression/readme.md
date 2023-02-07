@@ -12,3 +12,4 @@ Finally we need to find the **antibodies** based on above features.
 Here when we observe the above independent variables , that **Body Temperature** has categorical features so we need to change them into **1's** and **0's**. 
 We need to trap dummy feature because the featurs for high and moderate will depend (high+moderate=1) So we need to ensure that one feature must be trapped.
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Finally the accuracy we got for this model is **0.9757884356345478**
